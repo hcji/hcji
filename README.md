@@ -11,10 +11,6 @@
     <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.researchgate.net/profile/Hongchao-Ji-2">
-    <img align="center" width="22px" src="https://tse1-mm.cn.bing.net/th/id/R-C.074a9d6178601cd49ccdc9d240e407ed?rik=YZxS%2fiCLr9ybpQ&pid=ImgRaw&r=0" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://orcid.org/0000-0002-7364-0741">
     <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,3 +20,6 @@
   </a>
 </p>
 <br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
+
