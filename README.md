@@ -21,5 +21,5 @@
 </p>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
 
