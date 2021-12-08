@@ -6,7 +6,7 @@
 - 📫 How to reach me: ji.hongchao@foxmail.com
 
 </br>
-<p align="middle">
+<p align="left">
   <a href="https://www.linkedin.com/in/%E5%AE%8F%E8%B6%85-%E7%BA%AA-620646102/">
     <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
