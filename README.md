@@ -12,7 +12,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.researchgate.net/profile/Hongchao-Ji-2">
-    <img align="center" alt="Kohulan's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/49/49500.png" />
+    <img align="center" alt="Kohulan's LinkdeIN" width="22px" src="blob:https://fontawesome.com/6996ff34-e552-4d94-8922-5eb1f252d372" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://orcid.org/0000-0002-7364-0741">
