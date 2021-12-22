@@ -6,6 +6,7 @@
 - 📫 How to reach me: ji.hongchao@foxmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcji&hide=Jupyter%20Notebook,html" />
 
 </br>
 <p align="left">
