@@ -5,9 +5,13 @@
 - 👯 I’m looking to collaborate on metabolomics and proteomics
 - 📫 How to reach me: ji.hongchao@foxmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcji&hide=Jupyter%20Notebook,html" />
-
+</br>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcji&hide=Jupyter%20Notebook,html" />
+</p>
+<br/>
+  
 </br>
 <p align="left">
   <a href="https://www.linkedin.com/in/%E5%AE%8F%E8%B6%85-%E7%BA%AA-620646102/">
