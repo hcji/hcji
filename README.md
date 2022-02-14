@@ -20,6 +20,10 @@
   <a href="https://orcid.org/0000-0002-7364-0741">
     <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.researchgate.net/profile/Hongchao-Ji-2">
+    <img align="center" width="22px" src="https://api.iconify.design/fa-brands/researchgate.svg" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/hcji">
     <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
