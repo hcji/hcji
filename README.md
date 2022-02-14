@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on metabolomics and proteomics
 - 📫 How to reach me: ji.hongchao@foxmail.com
 
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=420240865&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:420240865:51" alt="Contact Me" title="Contact Me"/></a>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
 
 </br>
