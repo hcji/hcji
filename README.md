@@ -6,7 +6,7 @@
 - 📫 How to reach me: ji.hongchao@foxmail.com
 - 🍭 I'm sharing my reading and technique on WeChat public account: Chemocoder
 
-<img align="center" src="https://github.com/hcji/hcji/blob/main/img/qrcode.jpg" width="20%"/>
+<img align="center" src="https://github.com/hcji/hcji/blob/main/img/qrcode.jpg" width="50%"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
 
@@ -26,6 +26,10 @@
   
   <a href="https://www.researchgate.net/profile/Hongchao-Ji-2">
     <img align="center" width="22px" src="https://api.iconify.design/fa-brands/researchgate.svg" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://github.com/hcji/hcji/blob/main/img/wechat.jpg">
+    <img align="center" width="22px" src="https://api.iconify.design/fa/wechat.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/hcji">
