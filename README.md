@@ -3,7 +3,7 @@
 - 🔭 I’m currently working for SUSTech (China PR) as postdoc researcher
 - 🌱 I’m good at statistical analysis and machine learning in biochemistry
 - 👯 I’m looking to collaborate on metabolomics and proteomics
-- 📫 How to reach me: ji.hongchao@foxmail.com
+- 📫 How to reach me: ji.hongchao@foxmail.com; jihongchao@caas.cn
 - 🍭 I'm sharing my reading and technique on WeChat public account: Chemocoder
 
 <img align="center" src="https://github.com/hcji/hcji/blob/main/img/qrcode.jpg" width="40%"/>
