@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for SUSTech (China PR) as postdoc researcher
+- 🔭 I’m currently working for AGIS-CAAS (China PR) as associate researcher
 - 🌱 I’m good at statistical analysis and machine learning in biochemistry
 - 👯 I’m looking to collaborate on metabolomics and proteomics
 - 📫 How to reach me: ji.hongchao@foxmail.com; jihongchao@caas.cn
