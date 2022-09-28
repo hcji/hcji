@@ -10,7 +10,6 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hcji&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hcji" /> </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hcji&show_icons=true" />
 
 </br>
 <p align="left">
