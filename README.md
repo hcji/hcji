@@ -7,9 +7,8 @@
 - 🍭 I'm sharing my reading and technique on WeChat public account: Chemocoder
 
 <img align="center" src="https://github.com/hcji/hcji/blob/main/img/qrcode.jpg" width="40%"/>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hcji&theme=xcode" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hcji" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hcji&theme=xcode" /> </div>
 
 </br>
 <p align="left">
