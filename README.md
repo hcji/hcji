@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working for [AGIS-CAAS (China PR)](https://www.agis.org.cn/kydw/kydwyjzx/zxjsyjzx/00358335c1a44a9f83fd7918cfc225ec.htm) as associate researcher
 - 🌱 I’m good at statistical analysis and machine learning in biochemistry
-- 👯 I’m looking to collaborate on metabolomics and proteomics [Group website](https://www.x-mol.com/groups/hcji)
+- 👯 I’m looking to collaborate on metabolomics and proteomics, See our [group website](https://www.x-mol.com/groups/hcji)
 - 📫 How to reach me: ji.hongchao@foxmail.com; jihongchao@caas.cn
 - 🍭 I'm sharing my reading and technique on WeChat public account: Chemocoder
 
