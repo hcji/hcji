@@ -15,11 +15,7 @@ Metabolomics | Cheminformatics | Machine Learning | Data Science
 </div>
 
 </br>
-<p align="left">
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=420240865&site=qq&menu=yes">
-    <img align="center" width="22px" src="https://api.iconify.design/icon-park/tencent-qq.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+<p align="left">  
   <a href="https://www.linkedin.com/in/%E5%AE%8F%E8%B6%85-%E7%BA%AA-620646102/">
     <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
