@@ -7,9 +7,12 @@
 
 <h3> :man: &nbsp;Research fields</h3>
 Metabolomics | Cheminformatics | Machine Learning | Data Science 
+<h3> </h3>
 
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hcji" /> </div>
-<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hcji" /> </div>
+<div display="inline-block">
+<img width="42.4%" src="https://github-readme-stats.vercel.app/api?username=hcji" />
+<img width="55%" src="https://github-profile-trophy.vercel.app/?username=hcji" />
+</div>
 
 </br>
 <p align="left">
