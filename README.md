@@ -4,7 +4,9 @@
 - 🌱 I’m good at statistical analysis and machine learning in biochemistry
 - 👯 I’m looking to collaborate on metabolomics and proteomics, See our [group website](https://www.x-mol.com/groups/hcji)
 - 📫 How to reach me: ji.hongchao@foxmail.com; jihongchao@caas.cn
-- 🍭 I'm sharing my reading and technique on WeChat public account: Chemocoder
+
+<h3> :man: &nbsp;Research fields</h3>
+Metabolomics | Cheminformatics | Machine Learning | Data Science 
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hcji" /> </div>
 <div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hcji" /> </div>
