@@ -10,7 +10,7 @@ Metabolomics | Cheminformatics | Machine Learning | Data Science
 <h3> </h3>
 
 <div display="inline-block">
-<img width="36%" src="https://github-readme-stats.vercel.app/api?username=hcji" />
+<img width="34%" src="https://github-readme-stats.vercel.app/api?username=hcji" />
 <img width="64%" src="https://github-profile-trophy.vercel.app/?username=hcji" />
 </div>
 
