@@ -11,7 +11,7 @@ Metabolomics | Cheminformatics | Machine Learning | Data Science
 
 <div display="inline-block">
 <img width="34%" src="https://github-readme-stats.vercel.app/api?username=hcji" />
-<img width="64%" src="https://github-profile-trophy.vercel.app/?username=hcji" />
+<img width="63%" src="https://github-profile-trophy.vercel.app/?username=hcji" />
 </div>
 
 </br>
